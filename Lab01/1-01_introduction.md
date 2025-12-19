@@ -1,4 +1,4 @@
-# ML seminar
+# Getting Started With Machine Learning #
 
 ## 00 - Introduction ##
 
@@ -20,8 +20,8 @@ You can download it from the following link:
 Install Git and open a terminal in the folder where you want to work where you want to work and run:
 
 ```bash
-git clone <repository_url>
-cd <repository_folder>
+git clone https://github.com/JeroHoyos/ML_Seminar
+cd Lab01
 ```
 
 **Well Done!** Let's move to the [next section](1-01_Creating_virtual_environments.md). 

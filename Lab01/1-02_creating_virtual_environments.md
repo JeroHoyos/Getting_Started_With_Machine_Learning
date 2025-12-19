@@ -1,8 +1,8 @@
-# ML seminar
+# Getting Started With Machine Learning #
 
 ## 01 - Creating_virtual_environments ##
 
-**Table of Contents**
+**Abstract**  
 <br>
 This markdown shows how to create and manage virtual environments to isolate the Python version and the Packages used.
 
